@@ -1,6 +1,6 @@
 <h1 align="left">Hello, friends! (˵ •̀ ᴗ - ˵ )</h1>
 
-<p align="justify">
+<h5 align="justify">
   <img
     src="https://media1.tenor.com/m/aHQI8wfQt9cAAAAd/aerith-aerith-gainsborough.gif"
     width="200"
@@ -22,7 +22,7 @@
   in, and collaborating on software code here. I will also track
   my progress as I continue to learn so I can pursue my career
   more effectively. ( ｰ̀εｰ́ )
-</p>
+</h5>
 
 <br clear="right"/>
 
