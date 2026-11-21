@@ -18,8 +18,8 @@
 </p>
 
 <br clear="right"/>
-
-  <p>
+---
+<p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
     &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
@@ -65,7 +65,7 @@
     width="400"
     align="right"
     hspace="0"
-    alt="Visitor counter"
+    alt="See ya!!!"
   />
 </div>
 
