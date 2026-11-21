@@ -55,18 +55,24 @@
 
 ---
 
-<p align="center">
+<div align="left">
   <img
     src="https://streak-stats.demolab.com?user=ryusolmayo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
-    width="390"
+    width="400"
+    align="left"
+    hspace="0"
     alt="GitHub streak graph"
   />
-  &nbsp;
+
   <img
     src="https://count.getloli.com/@See%20ya!?theme=rule34&padding=6&offset=0&align=top&scale=1.6&pixelated=1&darkmode=0&num=150407"
-    height="150"
+    width="300"
+    align="right"
+    hspace="0"
     alt="Visitor counter"
   />
-</p>
+</div>
+
+<br clear="both"/>
 
 ---
