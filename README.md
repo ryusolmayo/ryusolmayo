@@ -10,7 +10,7 @@
 
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"
-    width="90"
+    width="60"
     height="200"
     align="right"
     alt=""
