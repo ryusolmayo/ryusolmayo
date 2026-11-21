@@ -17,7 +17,7 @@
   />
 
   I go by the name Iyuka, a.k.a. Ryu. I'm a beginner website,
-  software and game developer, as well as a beginner game and
+  software, and game developer, as well as a beginner game and
   graphic designer. I will be storing, managing, tracking changes
   in, and collaborating on software code here. I will also track
   my progress as I continue to learn so I can pursue my career
