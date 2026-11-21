@@ -1,6 +1,5 @@
 <h1 align="left">Hello, friends! (˵ •̀ ᴗ - ˵ )</h1>
 
-
 <p align="justify">
   <img
     src="https://media1.tenor.com/m/aHQI8wfQt9cAAAAd/aerith-aerith-gainsborough.gif"
@@ -11,8 +10,9 @@
 
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"
-    width="40"
-    height="1"
+    width="60"
+    height="200"
+    align="right"
     alt=""
   />
 
