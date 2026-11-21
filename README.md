@@ -8,14 +8,6 @@
     alt="Aerith clapping GIF"
   />
 
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"
-    width="60"
-    height="200"
-    align="right"
-    alt=""
-  />
-
   I go by the name Iyuka, a.k.a. Ryu. I'm a beginner website,
   software, and game developer, as well as a beginner game and
   graphic designer. I will be storing, managing, tracking changes
