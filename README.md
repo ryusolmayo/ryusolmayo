@@ -1,14 +1,15 @@
-
 <h1 align="left">Hello, friends! (˵ •̀ ᴗ - ˵ )</h1>
+
 
 <p align="left">
   <img
     src="https://media1.tenor.com/m/aHQI8wfQt9cAAAAd/aerith-aerith-gainsborough.gif"
-    width="200"
+    width="160"
     align="right"
+    hspace="15"
+    vspace="5"
     alt="Aerith clapping GIF"
   />
-  <img width="60" align="right" src="https://via.placeholder.com/15x1/0d1117/0d1117" alt=""/>
 
   I go by the name Iyuka, a.k.a. Ryu. I'm a beginner website,
   software, and game developer, as well as a beginner game and
@@ -19,6 +20,7 @@
 </p>
 
 <br clear="right"/>
+
 
 
 ---
