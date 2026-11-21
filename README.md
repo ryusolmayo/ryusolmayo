@@ -4,7 +4,7 @@
 <p align="left">
   <img
     src="https://media1.tenor.com/m/aHQI8wfQt9cAAAAd/aerith-aerith-gainsborough.gif"
-    width="160"
+    width="220"
     align="right"
     hspace="15"
     vspace="5"
