@@ -6,7 +6,7 @@
     src="https://media1.tenor.com/m/aHQI8wfQt9cAAAAd/aerith-aerith-gainsborough.gif"
     width="220"
     align="right"
-    hspace="30"
+    hspace="20"
     vspace="5"
     alt="Aerith clapping GIF"
   />
