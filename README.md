@@ -1,6 +1,5 @@
 <h1 align="left">Hello, friends! (˵ •̀ ᴗ - ˵ )</h1>
 
-
 <table>
   <tr>
     <td width="70%" valign="middle">
@@ -23,8 +22,6 @@
     </td>
   </tr>
 </table>
-
-
 ---
 
 <div align="center">
