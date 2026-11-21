@@ -66,7 +66,7 @@
 
   <img
     src="https://count.getloli.com/@See%20ya!?theme=rule34&padding=6&offset=0&align=top&scale=1.6&pixelated=1&darkmode=0&num=150407"
-    width="410"
+    width="400"
     align="right"
     hspace="0"
     alt="Visitor counter"
