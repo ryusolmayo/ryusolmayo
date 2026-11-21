@@ -1,13 +1,11 @@
 <h1 align="left">Hello, friends! (˵ •̀ ᴗ - ˵ )</h1>
 
-
 <p align="left">
   <img
     src="https://media1.tenor.com/m/aHQI8wfQt9cAAAAd/aerith-aerith-gainsborough.gif"
-    width="220"
+    width="200"
     align="right"
-    hspace="10"
-    vspace="5"
+    hspace="20"
     alt="Aerith clapping GIF"
   />
 
@@ -20,8 +18,6 @@
 </p>
 
 <br clear="right"/>
-
-
 
 ---
 
