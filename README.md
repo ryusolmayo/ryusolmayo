@@ -8,7 +8,7 @@
     align="right"
     alt="Aerith clapping GIF"
   />
-  <img width="15" align="right" src="https://via.placeholder.com/15x1/0d1117/0d1117" alt=""/>
+  <img width="30" align="right" src="https://via.placeholder.com/15x1/0d1117/0d1117" alt=""/>
 
   I go by the name Iyuka, a.k.a. Ryu. I'm a beginner website,
   software, and game developer, as well as a beginner game and
