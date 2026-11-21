@@ -1,20 +1,23 @@
 <h1 align="left">Hello, friends! (˵ •̀ ᴗ - ˵ )</h1>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td width="70%" valign="middle" style="border: none; padding: 0;">
-      <p align="left">
-        I go by the name Iyuka, a.k.a. Ryu. I'm a beginner website, software and game developer, as well as a beginner game and graphic designer. I will be storing, managing, tracking changes in, and collaborating on software code here. I will also track my progress as I continue to learn so I can pursue my career more effectively. (˵´꒳`)
-      </p>
-    </td>
-    <td width="30%" align="center" valign="middle" style="border: none; padding: 0;">
-      <img src="https://media1.tenor.com/m/aHQI8wfQt9cAAAAd/aerith-aerith-gainsborough.gif" width="200" alt="Aerith clapping GIF">
-    </td>
-  </tr>
-</table>
----
+<p align="left">
+  <img
+    src="https://media1.tenor.com/m/aHQI8wfQt9cAAAAd/aerith-aerith-gainsborough.gif"
+    width="200"
+    align="right"
+    hspace="0"
+    alt="Aerith clapping GIF"
+  />
 
-<div align="center">
+  I go by the name Iyuka, a.k.a. Ryu. I'm a beginner website,
+  software and game developer, as well as a beginner game and
+  graphic designer. I will be storing, managing, tracking changes
+  in, and collaborating on software code here. I will also track
+  my progress as I continue to learn so I can pursue my career
+  more effectively. ( ｰ̀εｰ́ )
+</p>
+
+<br clear="right"/>
 
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
